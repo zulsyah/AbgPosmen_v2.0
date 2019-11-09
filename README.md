@@ -1,5 +1,5 @@
 # AbangPosmen V2.0
-This art of work introduce the work of 'Abang Posmen' using ROS library. This time we are using combination drone which is Parrot Bebop 2 and Turtlebot 3.
+This art of work introduce the work of 'Abang Posmen' using ROS library. This time we are using combination of drone (Parrot Bebop 2) and Turtlebot 3.
 
 # Project Group Members
 
